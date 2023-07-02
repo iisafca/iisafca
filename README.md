@@ -1,7 +1,6 @@
 ### Hi there, I'm İsmail Onur 👋
 
-- 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning Unity and Unreal Engine
+- 🔭 I’m currently working on Mobile Development
 - 📫 How to reach me: iisafca@outlook.com
 
 <strong> Connect with me: </strong>
